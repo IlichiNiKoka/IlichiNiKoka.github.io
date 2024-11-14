@@ -35,6 +35,49 @@
 </description>
         </item>
         <item>
+        <title>Rust笔记-01</title>
+        <link>https://ilichinikoka.github.io/p/rust%E7%AC%94%E8%AE%B0-01/</link>
+        <pubDate>Mon, 04 Nov 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://ilichinikoka.github.io/p/rust%E7%AC%94%E8%AE%B0-01/</guid>
+        <description>&lt;img src="https://ilichinikoka.github.io/p/rust%E7%AC%94%E8%AE%B0-01/R.jpg" alt="Featured image of post Rust笔记-01" /&gt;&lt;h1 id=&#34;rust-note-01-introduction&#34;&gt;Rust Note 01: Introduction
+&lt;/h1&gt;&lt;h2 id=&#34;preload-edition&#34;&gt;Preload: Edition
+&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;当前的Rust版本是2024Edition长周期&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;r01-01-features&#34;&gt;R01-01 Features
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;性能&lt;/li&gt;
+&lt;li&gt;安全性&lt;/li&gt;
+&lt;li&gt;开发者友好（你确定吗宝贝）&lt;/li&gt;
+&lt;li&gt;健壮的生态系统（如果你忽略大部分编程人员是俄罗斯小男娘）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;r01-02-history&#34;&gt;R01-02 History
+&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;我说句真的这和我有啥关系&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;2006年，作为个人项目诞生&lt;/li&gt;
+&lt;li&gt;2009年抱到了Mozilla大腿&lt;/li&gt;
+&lt;li&gt;2015年发布首个稳定版本Rust 1.0&lt;/li&gt;
+&lt;li&gt;2021年成立基金会，并发布年份命名版&lt;/li&gt;
+&lt;li&gt;2022年有人把它写进了Linux内核然后被Linus喷了&lt;/li&gt;
+&lt;li&gt;2025年预计发Rust 2024 Edition(是不是发了)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;r01-03-画大饼&#34;&gt;R01-03 画大饼
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Rust的运行速度和优化完全的Cpp差不多&lt;/li&gt;
+&lt;li&gt;主打一个内存安全&lt;/li&gt;
+&lt;li&gt;“你的代码写的不安全，不许你编译通过”&lt;/li&gt;
+&lt;li&gt;好吧现在老多开源项目用的rust&lt;/li&gt;
+&lt;li&gt;语法令人愉悦（？&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;好吧，这就，没了。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        </item>
+        <item>
         <title>Archives</title>
         <link>https://ilichinikoka.github.io/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
