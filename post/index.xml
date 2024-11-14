@@ -77,6 +77,36 @@
 &lt;/blockquote&gt;
 </description>
         </item>
+        <item>
+        <title>Rust笔记-01.2</title>
+        <link>https://ilichinikoka.github.io/p/rust%E7%AC%94%E8%AE%B0-01.2/</link>
+        <pubDate>Mon, 04 Nov 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://ilichinikoka.github.io/p/rust%E7%AC%94%E8%AE%B0-01.2/</guid>
+        <description>&lt;img src="https://ilichinikoka.github.io/p/rust%E7%AC%94%E8%AE%B0-01.2/R.jpg" alt="Featured image of post Rust笔记-01.2" /&gt;&lt;h1 id=&#34;rust-note-01-02-installation&#34;&gt;Rust Note 01-02: Installation
+&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.rust-lang.org/tools/install&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;安装网址&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;windows&#34;&gt;Windows
+&lt;/h2&gt;&lt;h3 id=&#34;1下载&#34;&gt;1.下载
+&lt;/h3&gt;&lt;p&gt;在上面给出的网址中下载rustup-init.exe 并下载MSVC Build Tools（最新版即可）&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;升级： &lt;code&gt;rustup update&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;卸载： &lt;code&gt;rustup self uninstall&lt;/code&gt;
+先安MSVC再安rustup
+记得开魔法，然后无脑下一项&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2编辑器&#34;&gt;2.编辑器
+&lt;/h3&gt;&lt;h4 id=&#34;21-vscode&#34;&gt;2.1 VSCode
+&lt;/h4&gt;&lt;p&gt;请使用官方推荐的大齿轮子工具集&lt;/p&gt;
+&lt;h4 id=&#34;22-rustrover&#34;&gt;2.2 RustRover
+&lt;/h4&gt;&lt;p&gt;免费，下好就能用&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;后面就没啥注意的了，直接进入Rust语法吧。今天先写到这里，剩下的部分周末写&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        </item>
         
     </channel>
 </rss>
