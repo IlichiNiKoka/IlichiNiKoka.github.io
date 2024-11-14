@@ -20,9 +20,6 @@
                 href="https://ilichinikoka.github.io/"
                 />
   </url><url>
-    <loc>https://ilichinikoka.github.io/tags/--%E4%B8%AA%E4%BA%BA/</loc>
-    <lastmod>2024-11-14T18:54:11+08:00</lastmod>
-  </url><url>
     <loc>https://ilichinikoka.github.io/categories/</loc>
     <lastmod>2024-11-14T18:54:11+08:00</lastmod>
     <xhtml:link
@@ -40,9 +37,6 @@
                 hreflang="zh-cn"
                 href="https://ilichinikoka.github.io/categories/"
                 />
-  </url><url>
-    <loc>https://ilichinikoka.github.io/p/first-post/</loc>
-    <lastmod>2024-11-14T18:54:11+08:00</lastmod>
   </url><url>
     <loc>https://ilichinikoka.github.io/post/</loc>
     <lastmod>2024-11-14T18:54:11+08:00</lastmod>
@@ -75,7 +69,13 @@
                 href="https://ilichinikoka.github.io/tags/"
                 />
   </url><url>
+    <loc>https://ilichinikoka.github.io/tags/%E4%B8%AA%E4%BA%BA/</loc>
+    <lastmod>2024-11-14T18:54:11+08:00</lastmod>
+  </url><url>
     <loc>https://ilichinikoka.github.io/categories/personal/</loc>
+    <lastmod>2024-11-14T18:54:11+08:00</lastmod>
+  </url><url>
+    <loc>https://ilichinikoka.github.io/p/first-post/</loc>
     <lastmod>2024-11-14T18:54:11+08:00</lastmod>
   </url><url>
     <loc>https://ilichinikoka.github.io/p/test-chinese/</loc>
@@ -117,5 +117,9 @@
     <loc>https://ilichinikoka.github.io/search/</loc>
   </url><url>
     <loc>https://ilichinikoka.github.io/%E5%85%B3%E4%BA%8E/</loc>
+  </url><url>
+    <loc>https://ilichinikoka.github.io/categories/techno/</loc>
+  </url><url>
+    <loc>https://ilichinikoka.github.io/categories/repost/</loc>
   </url>
 </urlset>
