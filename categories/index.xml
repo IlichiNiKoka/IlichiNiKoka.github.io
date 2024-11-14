@@ -7,45 +7,13 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>107NKK, all rights reserved.</copyright>
-        <lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://ilichinikoka.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Test</title>
-        <link>https://ilichinikoka.github.io/categories/test/</link>
-        <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+        <lastBuildDate>Thu, 14 Nov 2024 18:54:11 +0800</lastBuildDate><atom:link href="https://ilichinikoka.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>个人文章</title>
+        <link>https://ilichinikoka.github.io/categories/personal/</link>
+        <pubDate>Thu, 14 Nov 2024 18:54:11 +0800</pubDate>
         
-        <guid>https://ilichinikoka.github.io/categories/test/</guid>
-        <description>&lt;img src="https://ilichinikoka.github.io/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Test" /&gt;</description>
-        </item>
-        <item>
-        <title>测试</title>
-        <link>https://ilichinikoka.github.io/categories/%E6%B5%8B%E8%AF%95/</link>
-        <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
-        
-        <guid>https://ilichinikoka.github.io/categories/%E6%B5%8B%E8%AF%95/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Syntax</title>
-        <link>https://ilichinikoka.github.io/categories/syntax/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://ilichinikoka.github.io/categories/syntax/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Themes</title>
-        <link>https://ilichinikoka.github.io/categories/themes/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://ilichinikoka.github.io/categories/themes/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Test With Whitespaces</title>
-        <link>https://ilichinikoka.github.io/categories/test-with-whitespaces/</link>
-        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://ilichinikoka.github.io/categories/test-with-whitespaces/</guid>
-        <description></description>
+        <guid>https://ilichinikoka.github.io/categories/personal/</guid>
+        <description>&lt;img src="https://ilichinikoka.github.io/categories/personal/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post 个人文章" /&gt;</description>
         </item>
         
     </channel>
